@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 14:07+1000\n"
-"PO-Revision-Date: 2026-06-15 05:10+0000\n"
+"PO-Revision-Date: 2026-06-15 08:49+0000\n"
 "Last-Translator: NF <rkavt@smartprojects.ge>\n"
 "Language-Team: Georgian <http://weblate.sugarlabs.org/projects/"
 "sugar-activities/musickeyboard/ka/>\n"
@@ -272,7 +272,7 @@ msgstr ""
 #. TRANS: http://en.wikipedia.org/wiki/Triangle_%28musical_instrument%29
 #: ttcommon/Util/Instruments.py:304
 msgid "Triangle"
-msgstr ""
+msgstr "სამკუთხედი"
 
 #. TRANS: The sound made by this instrument
 #. TRANS: http://en.wikipedia.org/wiki/Finger_cymbals
