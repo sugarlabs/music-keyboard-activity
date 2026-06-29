@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 14:07+1000\n"
-"PO-Revision-Date: 2026-06-15 08:49+0000\n"
+"PO-Revision-Date: 2026-06-29 06:56+0000\n"
 "Last-Translator: NF <rkavt@smartprojects.ge>\n"
 "Language-Team: Georgian <http://weblate.sugarlabs.org/projects/"
 "sugar-activities/musickeyboard/ka/>\n"
@@ -35,7 +35,7 @@ msgstr ""
 #. TRANS: http://en.wikipedia.org/wiki/Piano
 #: activity.py:538 ttcommon/Util/Instruments.py:127
 msgid "Piano"
-msgstr ""
+msgstr "პიანინო"
 
 #: activity.py:564
 msgid "Save as audio"
@@ -60,7 +60,7 @@ msgstr ""
 
 #: activity.py:711
 msgid "Tempo"
-msgstr ""
+msgstr "ტემპი"
 
 #: activity.py:941
 msgid "Audio recorded"
@@ -80,7 +80,7 @@ msgstr ""
 #. TRANS: http://en.wikipedia.org/wiki/Gamelan
 #: ttcommon/Util/Instruments.py:53
 msgid "Gamelan"
-msgstr ""
+msgstr "გამელანი"
 
 #. TRANS: The sound made by this instrument
 #. TRANS: http://en.wikipedia.org/wiki/Electric_guitar
@@ -93,141 +93,141 @@ msgstr ""
 #. TRANS: http://en.wikipedia.org/wiki/Koto_%28musical_instrument%29
 #: ttcommon/Util/Instruments.py:73
 msgid "Koto"
-msgstr ""
+msgstr "კოტო"
 
 #. TRANS: The sound made by this instrument
 #. TRANS: http://en.wikipedia.org/wiki/Banjo
 #: ttcommon/Util/Instruments.py:78
 msgid "Banjo"
-msgstr ""
+msgstr "ბანჯო"
 
 #. TRANS: The sound made by this instrument
 #. TRANS: http://en.wikipedia.org/wiki/Ukulele
 #: ttcommon/Util/Instruments.py:83
 msgid "Ukulele"
-msgstr ""
+msgstr "უკულელე"
 
 #. TRANS: The sound made by this instrument
 #. TRANS: http://en.wikipedia.org/wiki/Harpsichord
 #: ttcommon/Util/Instruments.py:88
 msgid "Harpsichord"
-msgstr ""
+msgstr "კლავესინი"
 
 #. TRANS: The sound made by this instrument
 #. TRANS: http://en.wikipedia.org/wiki/Clarinet
 #: ttcommon/Util/Instruments.py:93
 msgid "Clarinet"
-msgstr ""
+msgstr "კლარნეტი"
 
 #. TRANS: The sound made by this instrument
 #. TRANS: http://en.wikipedia.org/wiki/Flute
 #: ttcommon/Util/Instruments.py:98
 msgid "Flute"
-msgstr ""
+msgstr "ფლეიტა"
 
 #. TRANS: The sound made by this animal
 #. TRANS: http://en.wikipedia.org/wiki/Dog
 #: ttcommon/Util/Instruments.py:132
 msgid "Dog"
-msgstr ""
+msgstr "ძაღლი"
 
 #. TRANS: The sound made by this animal
 #. TRANS: http://en.wikipedia.org/wiki/Chicken
 #: ttcommon/Util/Instruments.py:137
 msgid "Chicken"
-msgstr ""
+msgstr "ქათამი"
 
 #. TRANS: The sound made by this animal
 #. TRANS: http://en.wikipedia.org/wiki/Duck
 #: ttcommon/Util/Instruments.py:142 ttcommon/Util/Instruments.py:235
 msgid "Duck"
-msgstr ""
+msgstr "იხვი"
 
 #. TRANS: The sound made by a person doing this
 #. TRANS: http://en.wikipedia.org/wiki/Blowing_a_raspberry
 #: ttcommon/Util/Instruments.py:147
 msgid "Raspberry"
-msgstr ""
+msgstr "ფრუტუნი"
 
 #. TRANS: The sound made by this instrument
 #. TRANS: http://en.wikipedia.org/wiki/Harmonica
 #: ttcommon/Util/Instruments.py:202
 msgid "Harmonica"
-msgstr ""
+msgstr "ჰარმონიკა"
 
 #. TRANS: The sound of an alarm bell
 #: ttcommon/Util/Instruments.py:206
 msgid "Alarm"
-msgstr ""
+msgstr "განგაში"
 
 #. TRANS: The sound made by this animal
 #. TRANS: http://en.wikipedia.org/wiki/Bird
 #: ttcommon/Util/Instruments.py:211
 msgid "Bird"
-msgstr ""
+msgstr "ჩიტი"
 
 #. TRANS: The sound made by this animal
 #. TRANS: http://en.wikipedia.org/wiki/Frog
 #: ttcommon/Util/Instruments.py:216
 msgid "Frog"
-msgstr ""
+msgstr "ბაყაყი"
 
 #. TRANS: The sound made by this animal
 #. TRANS: http://en.wikipedia.org/wiki/Cat
 #: ttcommon/Util/Instruments.py:221
 msgid "Cat"
-msgstr ""
+msgstr "კატა"
 
 #. TRANS: The sound made by this animal
 #. TRANS: http://en.wikipedia.org/wiki/Cow
 #: ttcommon/Util/Instruments.py:225
 msgid "Cow"
-msgstr ""
+msgstr "ძროხა"
 
 #. TRANS: The sound made by this animal
 #. TRANS: http://en.wikipedia.org/wiki/Cricket_%28insect%29
 #: ttcommon/Util/Instruments.py:230
 msgid "Cricket"
-msgstr ""
+msgstr "ჭრიჭინა"
 
 #. TRANS: The sound of a bottle being hit
 #. TRANS: http://en.wikipedia.org/wiki/Bottle
 #: ttcommon/Util/Instruments.py:240
 msgid "Bottle"
-msgstr ""
+msgstr "ბოთლი"
 
 #. TRANS: The sound of a garbage can
 #: ttcommon/Util/Instruments.py:244
 msgid "Dump"
-msgstr ""
+msgstr "ნაგავი"
 
 #. TRANS: The sound made by this instrument
 #. TRANS: http://en.wikipedia.org/wiki/Cymbal
 #: ttcommon/Util/Instruments.py:249
 msgid "Cymbal"
-msgstr ""
+msgstr "თეფში"
 
 #. TRANS: The sound of a person being hit
 #: ttcommon/Util/Instruments.py:253
 msgid "Ow"
-msgstr ""
+msgstr "ოუ"
 
 #. TRANS: A surprised shout
 #: ttcommon/Util/Instruments.py:257
 msgid "Hey"
-msgstr ""
+msgstr "ჰეი"
 
 #. TRANS: The sound made by this animal
 #. TRANS: http://en.wikipedia.org/wiki/Sheep
 #: ttcommon/Util/Instruments.py:262
 msgid "Sheep"
-msgstr ""
+msgstr "ცხვარი"
 
 #. TRANS: The sound of water splashing
 #. TRANS: http://en.wikipedia.org/wiki/Water
 #: ttcommon/Util/Instruments.py:267
 msgid "Water"
-msgstr ""
+msgstr "წყალი"
 
 #. TRANS: A science-fiction ray gun sound
 #: ttcommon/Util/Instruments.py:271
@@ -238,35 +238,35 @@ msgstr ""
 #. TRANS: http://en.wikipedia.org/wiki/Trumpet
 #: ttcommon/Util/Instruments.py:276
 msgid "Trumpet"
-msgstr ""
+msgstr "საყვირი"
 
 #. TRANS: The sound made by this instrument
 #. TRANS: http://en.wikipedia.org/wiki/Clavinet
 #: ttcommon/Util/Instruments.py:281
 msgid "Clavinet"
-msgstr ""
+msgstr "კლავინეტი"
 
 #. TRANS: The sound made by this instrument
 #. TRANS: http://en.wikipedia.org/wiki/Flugelhorn
 #: ttcommon/Util/Instruments.py:286
 msgid "Flugelhorn"
-msgstr ""
+msgstr "ფლუგელჰორნი"
 
 #. TRANS: The sound of a fog horn or ship horn
 #: ttcommon/Util/Instruments.py:290
 msgid "Foghorn"
-msgstr ""
+msgstr "ნისლის ბუკი"
 
 #. TRANS: The sound of air bubbling through water
 #: ttcommon/Util/Instruments.py:294
 msgid "Bubbles"
-msgstr ""
+msgstr "ბუშტები"
 
 #. TRANS: The sound made by this instrument
 #. TRANS: http://en.wikipedia.org/wiki/Marimba
 #: ttcommon/Util/Instruments.py:299
 msgid "Marimba"
-msgstr ""
+msgstr "მარიმბა"
 
 #. TRANS: The sound made by this instrument
 #. TRANS: http://en.wikipedia.org/wiki/Triangle_%28musical_instrument%29
@@ -278,12 +278,12 @@ msgstr "სამკუთხედი"
 #. TRANS: http://en.wikipedia.org/wiki/Finger_cymbals
 #: ttcommon/Util/Instruments.py:309
 msgid "Fingercymbals"
-msgstr ""
+msgstr "საგატები"
 
 #. TRANS: The sound of a laugh
 #: ttcommon/Util/Instruments.py:313
 msgid "Laugh"
-msgstr ""
+msgstr "სიცილი"
 
 #. TRANS: The sound of a baby laughing
 #: ttcommon/Util/Instruments.py:317
@@ -303,7 +303,7 @@ msgstr "ხმა"
 #. TRANS: A tinkling sound
 #: ttcommon/Util/Instruments.py:329
 msgid "Cling"
-msgstr ""
+msgstr "ზარი"
 
 #. TRANS: The sound of a bicycle bell
 #. TRANS: http://en.wikipedia.org/wiki/Bicycle
@@ -314,7 +314,7 @@ msgstr ""
 #. TRANS: The sound of a door slamming shut
 #: ttcommon/Util/Instruments.py:338
 msgid "Door"
-msgstr ""
+msgstr "კარი"
 
 #. TRANS: The sound made by this instrument
 #. TRANS: http://en.wikipedia.org/wiki/Electric_bass
@@ -338,49 +338,49 @@ msgstr "კამათელი"
 #. TRANS: http://en.wikipedia.org/wiki/Didjeridu
 #: ttcommon/Util/Instruments.py:358
 msgid "Didjeridu"
-msgstr ""
+msgstr "დიჯერიდუ"
 
 #. TRANS: The sound made by this instrument
 #. TRANS: http://en.wikipedia.org/wiki/Harmonium
 #: ttcommon/Util/Instruments.py:363
 msgid "Harmonium"
-msgstr ""
+msgstr "ჰარმონიუმი"
 
 #. TRANS: The sound made by this animal
 #. TRANS: http://en.wikipedia.org/wiki/Horse
 #: ttcommon/Util/Instruments.py:368
 msgid "Horse"
-msgstr ""
+msgstr "ცხენი"
 
 #. TRANS: The sound made by this instrument
 #. TRANS: http://en.wikipedia.org/wiki/Thumb_piano
 #: ttcommon/Util/Instruments.py:373
 msgid "Kalimba"
-msgstr ""
+msgstr "კალიმბა"
 
 #. TRANS: The sound made by this instrument
 #. TRANS: http://en.wikipedia.org/wiki/Mandolin
 #: ttcommon/Util/Instruments.py:378
 msgid "Mandolin"
-msgstr ""
+msgstr "მანდოლინი"
 
 #. TRANS: The sound made by this instrument
 #. TRANS: http://en.wikipedia.org/wiki/Ocarina
 #: ttcommon/Util/Instruments.py:383
 msgid "Ocarina"
-msgstr ""
+msgstr "ოკარინა"
 
 #. TRANS: The sound made by this instrument
 #. TRANS: http://en.wikipedia.org/wiki/Rhodes_piano
 #: ttcommon/Util/Instruments.py:388
 msgid "Rhodes"
-msgstr ""
+msgstr "როდესი"
 
 #. TRANS: The sound made by this instrument
 #. TRANS: http://en.wikipedia.org/wiki/Saxophone
 #: ttcommon/Util/Instruments.py:393
 msgid "Saxophone"
-msgstr ""
+msgstr "საქსოფონი"
 
 #. TRANS: The sound made by this instrument
 #. TRANS: http://en.wikipedia.org/wiki/Soprano_saxophone
@@ -392,36 +392,36 @@ msgstr ""
 #. TRANS: http://en.wikipedia.org/wiki/Shehnai
 #: ttcommon/Util/Instruments.py:403
 msgid "Shehnai"
-msgstr ""
+msgstr "შეჰნაი"
 
 #. TRANS: The sound made by this instrument
 #. TRANS: http://en.wikipedia.org/wiki/Sitar
 #: ttcommon/Util/Instruments.py:408
 msgid "Sitar"
-msgstr ""
+msgstr "სიტარა"
 
 #. TRANS: The sound made by this instrument
 #. TRANS: http://en.wikipedia.org/wiki/Tuba
 #: ttcommon/Util/Instruments.py:413
 msgid "Tuba"
-msgstr ""
+msgstr "ტუბა"
 
 #. TRANS: The sound made by this instrument
 #. TRANS: http://en.wikipedia.org/wiki/Violin
 #: ttcommon/Util/Instruments.py:418
 msgid "Violin"
-msgstr ""
+msgstr "ვიოლინო"
 
 #. TRANS: The sound of a camera shutter
 #. TRANS: http://en.wikipedia.org/wiki/Camera
 #: ttcommon/Util/Instruments.py:493
 msgid "Camera"
-msgstr ""
+msgstr "კამერა"
 
 #. TRANS: The sound of a car starting
 #: ttcommon/Util/Instruments.py:497
 msgid "Car"
-msgstr ""
+msgstr "მანქანა"
 
 #. TRANS: The sound of a car horn honking
 #: ttcommon/Util/Instruments.py:501
@@ -432,29 +432,29 @@ msgstr ""
 #. TRANS: http://en.wikipedia.org/wiki/Cello
 #: ttcommon/Util/Instruments.py:506
 msgid "Cello"
-msgstr ""
+msgstr "ჩელო"
 
 #. TRANS: The sound made by this instrument
 #. TRANS: http://en.wikipedia.org/wiki/Chimes
 #: ttcommon/Util/Instruments.py:511
 msgid "Chimes"
-msgstr ""
+msgstr "ზარები"
 
 #. TRANS: The sound of glass breaking
 #: ttcommon/Util/Instruments.py:515
 msgid "Crash"
-msgstr ""
+msgstr "მინის მსხვრევა"
 
 #. TRANS: The sound of this vehicle
 #. TRANS: http://en.wikipedia.org/wiki/Airplane
 #: ttcommon/Util/Instruments.py:525
 msgid "Plane"
-msgstr ""
+msgstr "თვითმფრინავი"
 
 #. TRANS: The sound of something being hit
 #: ttcommon/Util/Instruments.py:529
 msgid "Slap"
-msgstr ""
+msgstr "სილა"
 
 #. TRANS: The sound made by a bell
 #: ttcommon/Util/Instruments.py:533
@@ -465,7 +465,7 @@ msgstr ""
 #. TRANS: http://en.wikipedia.org/wiki/Sarangi
 #: ttcommon/Util/Instruments.py:538
 msgid "Sarangi"
-msgstr ""
+msgstr "სარანგი"
 
 #. TRANS: The sound of a Solomon Islands pipe, named "'au tahana"
 #. TRANS: http://www.jstor.org/pss/851365
@@ -491,4 +491,4 @@ msgstr ""
 
 #: ttcommon/Util/Instruments.py:678
 msgid "Nepali"
-msgstr ""
+msgstr "ნეპალი"
